@@ -1,0 +1,8 @@
+type_	description
+SO	Sales Order
+SD	Direct Ship Order
+SB	Blanket Order
+SQ	Quote Order
+SI	Interbranch Sales Order
+SK	Sales Intercompany Order
+ST	Transfer Sales Order
