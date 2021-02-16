@@ -63,7 +63,7 @@ def test_generate_customer(get_first_names, get_last_names):
     expected = {'salutation': 'Ms', 'first_name': 'Evelyn',
                 'type': 'Hospital patient', 'initial': 'E',
                 'surname': 'Bray', 'email': 'evelyn_bray@protonmail.com',
-                'dob': Timestamp('1972-03-27 00:00:00'), 'status': 1}
+                'dob': Timestamp('1972-03-29 00:00:00'), 'status': 1}
 
     actual = generate_customer(first_names, surnames, seed=42)
 
