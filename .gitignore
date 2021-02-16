@@ -90,3 +90,4 @@ ENV/
 
 # Outputs
 outputs/
+inputs/fake_data/zipcodes_uk.tsv
